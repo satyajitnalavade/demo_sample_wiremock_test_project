@@ -13,3 +13,6 @@ Add wiremock-standalone dependency
 Use WireMockRule
 Define Stubs
 	
+	
+http://wiremock.org/docs/getting-started/
+
